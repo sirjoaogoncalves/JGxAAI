@@ -27,7 +27,7 @@ Built with **PySide6** (Qt for Python) providing:
 
 ```bash
 git clone git@github.com:sirjoaogoncalves/JGxAAI.git 
-cd ollama-chat-app
+cd JGxAAI
 ./install.sh
 ```
 
